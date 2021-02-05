@@ -1,0 +1,18 @@
+{
+  "name": "firebase",
+  "description": "Gatsby firebase playground",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "babel-preset-gatsby": "^0.12.0",
+    "firebase": "^8.2.5",
+    "gatsby": "^2.32.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "recompose": "^0.30.0"
+  }
+}
