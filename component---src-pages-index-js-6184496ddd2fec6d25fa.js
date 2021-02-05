@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("Bl7J"),u=function(){return l.a.createElement(a.Fragment,null,l.a.createElement("h1",null,"Landing"),l.a.createElement("p",null,"The Landing Page is open to everyone, even though the user isn't signed in."))};n.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-6184496ddd2fec6d25fa.js.map
